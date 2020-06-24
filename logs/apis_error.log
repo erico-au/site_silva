@@ -646,3 +646,20 @@ NameError: name 'ResourceWarning' is not defined
 [Wed Jun 24 12:26:12.290083 2020] [wsgi:error] [pid 31303] [remote 189.63.28.150:62565] 
 [Wed Jun 24 12:40:25.459410 2020] [wsgi:error] [pid 31303] [remote 185.234.216.28:60496] Not Found: /wp-login.php
 [Wed Jun 24 12:40:25.584365 2020] [wsgi:error] [pid 31303] [remote 185.234.216.28:60496] Not Found: /wp-login.php
+[Wed Jun 24 19:19:52.312361 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:52.447511 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /xmlrpc.php
+[Wed Jun 24 19:19:52.713211 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /blog/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:52.847178 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /web/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:52.981069 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /wordpress/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:53.115115 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /website/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:53.248934 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /wp/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:53.383189 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /news/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:53.516904 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /2018/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:53.651619 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /2019/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:53.785893 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /shop/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:53.920642 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /wp1/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:54.054577 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:52670] Not Found: /test/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:59.460011 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:49972] Not Found: /wp2/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:59.596408 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:49972] Not Found: /site/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:59.732469 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:49972] Not Found: /cms/wp-includes/wlwmanifest.xml
+[Wed Jun 24 19:19:59.868535 2020] [wsgi:error] [pid 31303] [remote 200.98.132.142:49972] Not Found: /sito/wp-includes/wlwmanifest.xml
