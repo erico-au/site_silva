@@ -593,3 +593,6 @@
 200.98.132.142 - - [24/Jun/2020:14:19:59 -0500] "GET /site/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2203 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36"
 200.98.132.142 - - [24/Jun/2020:14:19:59 -0500] "GET /cms/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2200 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36"
 200.98.132.142 - - [24/Jun/2020:14:19:59 -0500] "GET /sito/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2203 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36"
+189.63.28.150 - - [24/Jun/2020:14:27:59 -0500] "GET / HTTP/1.1" 200 249 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
+40.77.167.171 - - [24/Jun/2020:15:36:39 -0500] "GET / HTTP/1.1" 200 249 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+189.63.28.150 - - [24/Jun/2020:17:11:55 -0500] "GET / HTTP/1.1" 200 249 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
